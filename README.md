@@ -13,6 +13,10 @@ This is some exercise on next js concepts
 - Intercepting routes
 - Route groups
 - Middleware
+- Data fetching on server side
+- Loading pages
+- Using suspense for granular fetching and loading
+- using better-sqlite3 (to fetch from dummy db)
 
 ## Project Setup
 
